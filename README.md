@@ -3,7 +3,7 @@
 An analysis of the reports reviewing decisions at the end of close games. The NBA defines these as *"all games within five points at the two minute mark of regulation (and during overtime, where applicable). The plays assessed include all calls (whistles) and notable non-calls."*
 
 ## Questions
-- How often do refs "swallow the whistle" (miss a call) in a close games?
+- How often are calls incorrect or missed in a close game?
 - Do referees make more decisions in favor of the home team?
 - How often does an incorrect call **directly** lead to points?
 - Do the incorrect calls tend to make the game closer or further?

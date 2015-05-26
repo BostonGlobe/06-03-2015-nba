@@ -4,13 +4,11 @@ An analysis of the reports reviewing decisions at the end of close games. The NB
 
 ## Questions
 - How often are calls incorrect or missed in a close game?
-- Do referees make more decisions in favor of the home team?
+- Do officials make more decisions in favor of the home team?
+- What calls are officials getting wrong most often?
+- What was the worst officiated game?
 - How often does an incorrect call **directly** lead to points?
 - Do the incorrect calls tend to make the game closer or further?
-- What calls are referees getting wrong most often?
-- Is there any star treatment?
-- Do certain teams benefit from referee decisions?
-- When are the wrong calls made?
 
 ## Analysis
 [Code and data](/analysis)
